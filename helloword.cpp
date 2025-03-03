@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
-    cout << "Hello World!";
+    cout << "Hello World!" << endl;
+    cout << "I am learning C++" << endl;
     return 0;
-}Nguyễn Đức Anh
+}
