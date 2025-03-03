@@ -9,5 +9,6 @@ int main()
     cout << "checkout ngocanh" << endl;
     cout << "How to use Git" << endl;
     cout << "remote: resolving detals" << endl;
+    cout << "switched to branch ngocanh" <<endl;
     return 0;
 }
