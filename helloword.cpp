@@ -6,5 +6,6 @@ int main()
     cout << "choducanh" << endl;
     cout << "I am learning C++" << endl;
     cout << "How to use Git" << endl;
+    cout << "remote: resolving detals" <<endl;
     return 0;
 }
