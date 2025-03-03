@@ -11,5 +11,6 @@ int main()
     cout << "remote: resolving detals" << endl;
 
     cout << "checkout Anh" << endl;
+    cout << "remote: resolving detals" << endl;
     return 0;
 }
