@@ -15,5 +15,6 @@ int main()
     cout << "remote: resolving detals 1" << endl;
     cout << "remote: resolving detals 2" << endl;
     cout << "remote: resolving detals 3" << endl;
+    cout << "git push origin";
     return 0;
 }
