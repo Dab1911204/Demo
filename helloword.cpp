@@ -12,5 +12,6 @@ int main()
     cout << "checkout Anh" << endl;
     cout << "remote: resolving detals" << endl;
     cout << "switched to branch ngocanh" <<endl;
+    cout << "git push origin";
     return 0;
 }
